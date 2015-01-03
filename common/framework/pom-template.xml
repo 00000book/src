@@ -58,11 +58,6 @@
       <version>${testng-version}</version>
     </dependency>
     <dependency>
-      <groupId>org.dejalu.common</groupId>
-      <artifactId>utilities</artifactId>
-      <version>${dejalu-version}</version>
-    </dependency>
-    <dependency>
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
       <version>${log4j-version}</version>
